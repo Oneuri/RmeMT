@@ -2,7 +2,7 @@
 
 
 #*Let the program read the book for you!
-#####*Select and Listen!
+*Select and Listen!
 
 Yes.
 Today people dont have time to read large texts.
