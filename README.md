@@ -1,8 +1,8 @@
 # RmeMT
 
 
-## *Let the program read the book for you!
-##### *Select and Listen!
+## *Let the program read the book for you!*
+##### *Select and Listen!*
 
 Yes.
 Today people dont have time to read large texts.
@@ -15,13 +15,14 @@ You guys also enjoy Listening and let the program read all the texts for you!
 :)
 
 # Here are the steps to follow
-### *step 1:* select and Copy the whole text you want to read (that can be anything - a research paper, a book, a newspaper) 
+### *step 1:* 
+select and Copy the whole text you want to read (that can be anything - a research paper, a book, a newspaper) 
 
-##### Step 2: 
+### *Step 2: 
 Now paste that copied text in a notepad file. And
  save it with the name yes.txt
 
-##### Step 3: 
+### *Step 3: 
 This text file should be saved where you save your python files.
 with this, you are ready to listen to the text by just running the code.
 
