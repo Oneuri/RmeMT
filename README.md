@@ -11,7 +11,6 @@ And most of the time I leave it unread and start thinking that If we could have 
 So I started thinking and I got an amazing idea to make the program read all the text we want to read and we hear.
 Then I implemented the idea, here is the product!
 You guys also enjoy Listening and let the program read all the texts for you!
-
 :)
 
 # Here are the steps to follow
@@ -25,5 +24,8 @@ Now paste that copied text in a notepad file. And
 ### *Step 3:* 
 This text file should be saved where you save your python files.
 with this, you are ready to listen to the text by just running the code.
+
+@octocat :+1:
+XD
 
 
