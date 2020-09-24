@@ -25,7 +25,7 @@ Now paste that copied text in a notepad file. And
 This text file should be saved where you save your python files.
 with this, you are ready to listen to the text by just running the code.
 
-@octocat :+1:
-XD
+:XD: :+1:
+
 
 
