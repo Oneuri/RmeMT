@@ -15,8 +15,7 @@ You guys also enjoy Listening and let the program read all the texts for you!
 :)
 
 # Here are the steps to follow
-### step 1:
-select and Copy the whole text you want to read (that can be anything - a research paper, a book, a newspaper) 
+### *step 1:* select and Copy the whole text you want to read (that can be anything - a research paper, a book, a newspaper) 
 
 ##### Step 2: 
 Now paste that copied text in a notepad file. And
