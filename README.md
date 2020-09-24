@@ -1,7 +1,7 @@
 # RmeMT
 
 
-##*Let the program read the book for you!
+#*Let the program read the book for you!
 #####*Select and Listen!
 
 Yes.
