@@ -1,7 +1,7 @@
 # RmeMT
 
 
-# *Let the program read you the book for you!
+# *Let the program read the book for you!
 
 yes. You just have to follow few steps!
 Recently I am going through many research papers. I always get stressed only by looking at the size of the paper.
